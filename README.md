@@ -1,12 +1,19 @@
 # Protocols
-<font size="3">Protocol files and support files</font>
+Protocol files and support files
 
-Each folder contains the information related to one protocol. Please read carefully the topic of the protocol you need to find it easier. The following distribution and ordering has been placed to easy yhe search. Some protocols can be realted to more than one category. 
+Each folder contains the information related to one protocol. Please read carefully the topic of the protocol you need to find it easier. The following distribution and ordering has been placed to easy yhe search. Some protocols can be related to more than one category.
 
-# Notes
-a) Each protocol has been named accordingly to a number, P001, corresponded to Protocol # 001
+- Microfluidics
+- Nanocomposites and Nanostructuration
+- Sensors
+- Measurement Techniques
+- Chemical and Physical Processes
+- Electronics
+- Programming and SW development
 
-b) Support files of that same Protocol will be named as P001s1, meaning the first support file for Protocol 001.
+Notes
+- Each protocol has been named accordingly to a number; e.g. P001, corresponds to Protocol # 001
+- Support files of that same Protocol will be named as P001s1, meaning the first support file for Protocol 001.
 
 # Microfluidics
 
@@ -148,7 +155,7 @@ P028
 
 P030
 
-# Programing and SW development
+# Programming and SW development
 
 P016
 
