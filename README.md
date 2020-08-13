@@ -12,8 +12,10 @@ Each folder contains the information related to one protocol. Please read carefu
 - Programming and SW development
 
 Notes
-- Each protocol has been named accordingly to a number; e.g. P001, corresponds to Protocol # 001
-- Support files of that same Protocol will be named as P001s1, meaning the first support file for Protocol 001.
+
+a) Each protocol has been named accordingly to a number; e.g. P001, corresponds to Protocol # 001
+
+b) Support files of that same Protocol will be named as P001s1, meaning the first support file for Protocol 001.
 
 # Microfluidics
 
