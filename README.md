@@ -1,7 +1,7 @@
 # Protocols
 Protocol files and support files
 
-Each folder contains the information related to one protocol. Please read carefully the topic of the protocol you need to find it easier. The following distribution and ordering has been placed to easy yhe search. Some protocols can be related to more than one category.
+Each folder contains the information related to one protocol. Please choose carefully the category of the protocol you need to find it easier. The following distribution and ordering has been placed to easy the search. Some protocols can be related to more than one category.
 
 - Microfluidics
 - Nanocomposites and Nanostructuration
