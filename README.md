@@ -4,7 +4,8 @@ Protocol files and support files
 Each folder contains the information related to one protocol. Please read carefully the topic of the protocol you need to find it easier. The following distribution and ordering has been placed to easy yhe search. Some protocols can be realted to more than one category. 
 
 # Notes
-a) Each protocol has been named accordingly to a number, P001, corresponded to Protocol # 001. 
+a) Each protocol has been named accordingly to a number, P001, corresponded to Protocol # 001
+
 b) Support files of that same Protocol will be named as P001s1, meaning the first support file for Protocol 001.
 
 # Microfluidics
