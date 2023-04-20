@@ -69,6 +69,8 @@ P032 - Inmovilización Anticuerpos en immunosensores.
 
 P034 - Cuantificación concentración de proteínas/enzimas.
 
+P035 - Síntesis de puntos fluorescentes de carbono por un método termal.
+
 # Sensors
 
 P001 - Diseño y fabricación de electrodos para medición electroquímica.
@@ -150,6 +152,9 @@ P031 - Preparación de solutos, cálculo de molaridad y preparación de solucion
 
 P032 - Inmovilización Anticuerpos en immunosensores.
 
+P035 - Síntesis de puntos fluorescentes de carbono por un método termal.
+
+P036 - Síntesis de nanohíbridos magnetita/puntos de carbono usando un método de coprecipitación con agitación magnética
 
 # Electronics
 
