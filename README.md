@@ -19,170 +19,170 @@ b) Support files of that same Protocol will be named as P001s1, meaning the firs
 
 # Microfluidics
 
-P002 - Fabricación de microrreactor para la síntesis de nanopartículas de magnetita.
+P002 - Manufacture of a microreactor for the synthesis of magnetite nanoparticles / Fabricación de microrreactor para la síntesis de nanopartículas de magnetita.
 
-P004 - Elaboración de microcápsulas de alginato y quitosano.
+P004 - Elaboration of alginate and chitosan microcapsules / Elaboración de microcápsulas de alginato y quitosano
 
-P007 - Litografía. 
+P007 - Lithography / Litografía 
 
-P008 - Microcanales en Materiales Flexibles. 
+P008 - Microchannels in flexible materials / Microcanales en Materiales Flexibles. 
 
-P009 - Uso Plasma Cleaner con vidrio y PDMS.
+P009 - Use of Plasma Cleaner with glass and PDMS / Uso Plasma Cleaner con vidrio y PDMS.
 
-P010 - Elaboración de Estructuras en Polydimethylsiloxane (PDMS).
+P010 - Elaboration of structures in Polydimethylsiloxane (PDMS) / Elaboración de Estructuras en Polydimethylsiloxane (PDMS).
 
-P012 - Manufactura microreactor Magnetita.
+P012 - Manufacture of microreactor for magnetite / Manufactura microreactor Magnetita.
 
-P017 - Diseno de microsistema fluídico con acrílico.
+P017 - Design of fluidic microsystem with acrylic / Diseno de microsistema fluídico con acrílico.
 
-P021 - Diseño de máscaras para la fabricación de arterias artificiales con SF-100.
+P021 - Design of masks for the fabrication of artificial arteries with SF-100 / Diseño de máscaras para la fabricación de arterias artificiales con SF-100.
 
-P023 - Micro-Fabricación de estructuras en oro por LiFT-OFF en tecnología de 5UM.
+P023 - Micro-fabrication of structures in gold by LiFT-OFF in 5UM technology / Micro-Fabricación de estructuras en oro por LiFT-OFF en tecnología de 5UM.
 
-P025 - Observación, manejo e inyección de fluidos en microsistemas fluídicos.
+P025 - Observation, handling, and injection of fluids in fluidic microsystems / Observación, manejo e inyección de fluidos en microsistemas fluídicos.
 
-P033 - Ensamblaje microsistema fluídico de generación capsular.
+P033 - Assembly of fluidic microsystem for capsule generation / Ensamblaje microsistema fluídico de generación capsular.
 
 # Nanocomposites and Nanostructuration
 
-P005 - Procedimiento operacional para el analisis de tamaño y potencial zeta – zetasizer nano.
+P005 - Operational procedure for size and zeta potential analysis - nano zetasizer / Procedimiento operacional para el analisis de tamaño y potencial zeta – zetasizer nano.
 
-P006 - Funcionalización de superficies de electrodos para medición electroquímica.
+P006 - Surface functionalization of electrodes for electrochemical measurement / Funcionalización de superficies de electrodos para medición electroquímica.
 
-P011 - Inmovilización de Lacasa en nanopartículas de Magnetita por medio de funcionalización con aptes y flutaraldehído.
+P011 - Immobilization of Laccase in magnetite nanoparticles through functionalization with APTES and glutaraldehyde / Inmovilización de Lacasa en nanopartículas de Magnetita por medio de funcionalización con aptes y flutaraldehído.
 
-P012 - Manufactura microreactor para la síntesis de nanopartículas magnéticas.
+P012 - Manufacture of microreactor for the synthesis of magnetic nanoparticles / Manufactura microreactor para la síntesis de nanopartículas magnéticas.
 
-P013 - Síntesis de nanopartículas de Magnetita por el método de Coprecipitación Química. 
+P013 - Synthesis of magnetite nanoparticles by the Chemical Coprecipitation Method / Síntesis de nanopartículas de Magnetita por el método de Coprecipitación Química. 
 
-P014 - Síntesis Nanopartículas de Cobre.
+P014 - Synthesis of Copper Nanoparticles / Síntesis Nanopartículas de Cobre.
 
-P020 - DOP y Nanopartículas de dióxido de Silicio (SiO2).
+P020 -  DOP and Silicon Dioxide (SiO2) Nanoparticles / DOP y Nanopartículas de dióxido de Silicio (SiO2).
 
-P027 - Preparación de solutos, cálculo de molaridad y preparación de soluciones.
+P027 - Preparation of solutes, molarity calculation, and preparation of solutions / Preparación de solutos, cálculo de molaridad y preparación de soluciones.
 
-P029 - Síntesis verde de nanopartículas de cobre.
+P029 - Green synthesis of copper nanoparticles / Síntesis verde de nanopartículas de cobre.
 
-P031 - Preparación de solutos, cálculo de molaridad y preparación de soluciones clorofila.
+P031 - Preparation of solutes, molarity calculation, and preparation of chlorophyll solutions / Preparación de solutos, cálculo de molaridad y preparación de soluciones clorofila.
 
-P032 - Inmovilización Anticuerpos en immunosensores.
+P032 - Immobilization of antibodies in immunosensors / Inmovilización Anticuerpos en immunosensores.
 
-P034 - Cuantificación concentración de proteínas/enzimas.
+P034 - Quantification of protein/enzyme concentration / Cuantificación concentración de proteínas/enzimas.
 
-P035 - Síntesis de puntos fluorescentes de carbono por un método termal.
+P035 - Synthesis of fluorescent carbon dots by a thermal method / Síntesis de puntos fluorescentes de carbono por un método termal.
 
 # Sensors
 
-P001 - Diseño y fabricación de electrodos para medición electroquímica.
+P001 - Design and manufacture of electrodes for electrochemical measurement / Diseño y fabricación de electrodos para medición electroquímica.
 
-P006 - Funcionalización de superficies de electrodos para medición electroquímica.
+P006 - Surface functionalization of electrodes for electrochemical measurement / Funcionalización de superficies de electrodos para medición electroquímica.
 
-P007 - Litografía.
+P007 - Lithography / Litografía.
 
-P008 - Microcanales en Materiales Flexibles.
+P008 - Microchannels in flexible materials / Microcanales en Materiales Flexibles.
 
-P009 - Uso Plasma Cleaner con vidrio y PDMS.
+P009 - Use of Plasma Cleaner with glass and PDMS / Uso Plasma Cleaner con vidrio y PDMS.
 
-P010 - Elaboración de Estructuras en Polydimethylsiloxane (PDMS).
+P010 - Elaboration of structures in Polydimethylsiloxane (PDMS) / Elaboración de Estructuras en Polydimethylsiloxane (PDMS).
 
-P011 - Inmovilización de Lacasa en nanopartículas de Magnetita por medio de funcionalización con aptes y flutaraldehído.
+P011 - Immobilization of Laccase in magnetite nanoparticles through functionalization with APTES and glutaraldehyde / Inmovilización de Lacasa en nanopartículas de Magnetita por medio de funcionalización con aptes y flutaraldehído.
 
-P015 - Sistema de medición bioelectroquimica de un biomicrosistema basado en anticuerpos.
+P015 - Bioelectrochemical measurement system of a biomicrosystem based on antibodies / Sistema de medición bioelectroquimica de un biomicrosistema basado en anticuerpos.
 
-P018 - Diseno Circuitos Impresos desde Adobe Illustrator.
+P018 - Design of Printed Circuits from Adobe Illustrator / Diseno Circuitos Impresos desde Adobe Illustrator.
 
-P019 - Implementación de un dispositivo de medición de temperatura.
+P019 - Implementation of a temperature measurement device / Implementación de un dispositivo de medición de temperatura.
 
-P022 - Fabricación de sensor tipo MOx basado en Óxido de Zinc.
+P022 - Manufacture of MOx type sensor based on Zinc Oxide / Fabricación de sensor tipo MOx basado en Óxido de Zinc.
 
-P023 - Micro-Fabricación de estructuras en oro por LiFT-OFF en tecnología de 5UM. 
+P023 - Micro-fabrication of structures in gold by LiFT-OFF in 5UM technology / Micro-Fabricación de estructuras en oro por LiFT-OFF en tecnología de 5UM. 
 
-P026 - Uso del potenciostato.
+P026 - Use of the potentiostat / Uso del potenciostato.
 
-P032 - Inmovilización Anticuerpos en immunosensores.
+P032 - Immobilization of antibodies in immunosensors / Inmovilización Anticuerpos en immunosensores.
 
 
 # Measurement Techniques
 
-P003 - Medición Actividad Enzimatica.
+P003 - Enzyme Activity Measurement / Medición Actividad Enzimatica.
 
-P005 - Procedimiento operacional para el analisis de tamaño y potencial zeta – zetasizer nano.
+P005 - Operational procedure for size and zeta potential analysis - nano zetasizer / Procedimiento operacional para el analisis de tamaño y potencial zeta – zetasizer nano.
 
-P015 - Sistema de medición bioelectroquimica de un biomicrosistema basado en anticuerpos.
+P015 - Bioelectrochemical measurement system of a biomicrosystem based on antibodies / Sistema de medición bioelectroquimica de un biomicrosistema basado en anticuerpos.
 
-P024 - Medición de transferencia de calor en un spouted BED Cónico.
+P024 - Heat transfer measurement in a conical spouted bed / Medición de transferencia de calor en un spouted BED Cónico.
 
-P025 - Observación, manejo e inyección de fluidos en microsistemas fluídicos.
+P025 - Observation, handling, and injection of fluids in fluidic microsystems / Observación, manejo e inyección de fluidos en microsistemas fluídicos.
 
-P026 - Uso del potenciostato.
+P026 - Use of the potentiostat / Uso del potenciostato.
 
-P034 - Cuantificación concentración de proteínas/enzimas.
+P034 - Quantification of protein/enzyme concentration / Cuantificación concentración de proteínas/enzimas.
 
 # Chemical and Physical Processes
 
-P007 - Litografía.
+P007 - Lithography / Litografía.
 
-P008 - Microcanales en Materiales Flexibles. 
+P008 - Microchannels in Flexible Materials / Microcanales en Materiales Flexibles. 
 
-P009 - Uso Plasma Cleaner con vidrio y PDMS.
+P009 - Use of Plasma Cleaner with Glass and PDMS / Uso Plasma Cleaner con vidrio y PDMS.
 
-P010 - Elaboración de Estructuras en Polydimethylsiloxane (PDMS).
+P010 - Elaboration of Structures in Polydimethylsiloxane (PDMS) / Elaboración de Estructuras en Polydimethylsiloxane (PDMS).
 
-P011 - Inmovilización de Lacasa en Magnetita.
+P011 - Immobilization of Laccase on Magnetite / Inmovilización de Lacasa en Magnetita.
 
-P012 - Manufactura microreactor para la síntesis de nanopartículas magnéticas.
+P012 - Manufacture of microreactor for the synthesis of magnetic nanoparticles / Manufactura microreactor para la síntesis de nanopartículas magnéticas.
 
-P013 - Síntesis de nanopartículas de Magnetita por el método de Coprecipitación Química. 
+P013 - Synthesis of Magnetite Nanoparticles by Chemical Co-precipitation Method / Síntesis de nanopartículas de Magnetita por el método de Coprecipitación Química. 
 
-P014 - Síntesis Nanopartículas de Cobre.
+P014 - Synthesis of Copper Nanoparticles / Síntesis Nanopartículas de Cobre.
 
-P020 - DOP y Nanopartículas de dióxido de Silicio (SiO2).
+P020 -  DOP and Silicon Dioxide (SiO2) Nanoparticles / DOP y Nanopartículas de dióxido de Silicio (SiO2).
 
-P021 - Diseño de máscaras para la fabricación de arterias artificiales con SF-100.
+P021 - Design of masks for the fabrication of artificial arteries with SF-100 / Diseño de máscaras para la fabricación de arterias artificiales con SF-100.
 
-P022 - Fabricación de sensor tipo MOx basado en Óxido de Zinc.
+P022 - Manufacturing of MOx-type sensor based on Zinc Oxide / Fabricación de sensor tipo MOx basado en Óxido de Zinc.
 
-P023 - Micro-Fabricación de estructuras en oro por LiFT-OFF en tecnología de 5UM. 
+P023 - Micro-Fabrication of structures in gold by LiFT-OFF in 5UM technology / Micro-Fabricación de estructuras en oro por LiFT-OFF en tecnología de 5UM. 
 
-P027 - Preparación de solutos, cálculo de molaridad y preparación de soluciones.
+P027 - Preparation of solutes, calculation of molarity and preparation of solutions / Preparación de solutos, cálculo de molaridad y preparación de soluciones.
 
-P029 - Síntesis verde de nanopartículas de cobre.
+P029 - Green synthesis of copper nanoparticles / Síntesis verde de nanopartículas de cobre.
 
-P031 - Preparación de solutos, cálculo de molaridad y preparación de soluciones clorofila.
+P031 - Preparation of solutes, calculation of molarity and preparation of chlorophyll solutions / Preparación de solutos, cálculo de molaridad y preparación de soluciones clorofila.
 
-P032 - Inmovilización Anticuerpos en immunosensores.
+P032 - Immobilization of antibodies in immunosensors / Inmovilización Anticuerpos en immunosensores.
 
-P035 - Síntesis de puntos fluorescentes de carbono por un método termal.
+P035 - Synthesis of carbon fluorescent dots by a thermal method / Síntesis de puntos fluorescentes de carbono por un método termal.
 
-P036 - Síntesis de nanohíbridos magnetita/puntos de carbono usando un método de coprecipitación con agitación magnética
+P036 - Synthesis of magnetite/carbon dots nanohybrids using a co-precipitation method with magnetic stirring / Síntesis de nanohíbridos magnetita/puntos de carbono usando un método de coprecipitación con agitación magnética
 
 # Electronics
 
-P001 - Diseño y fabricación de electrodos para medición electroquímica.
+P001 - Design and manufacture of electrodes for electrochemical measurement / Diseño y fabricación de electrodos para medición electroquímica.
 
-P006 - Funcionalización de superficies de electrodos para medición electroquímica.
+P006 - Functionalization of electrode surfaces for electrochemical measurement / Funcionalización de superficies de electrodos para medición electroquímica.
 
-P015 - Sistema de medición bioelectroquimica de un biomicrosistema basado en anticuerpos.
+P015 - Bioelectrochemical measurement system of a biomicrosystem based on antibodies / Sistema de medición bioelectroquimica de un biomicrosistema basado en anticuerpos.
 
-P018 - Diseno Circuitos Impresos desde Adobe Illustrator.
+P018 - Printed Circuit Board (PCB) design from Adobe Illustrator / Diseno Circuitos Impresos desde Adobe Illustrator.
 
-P019 - Implementación de un dispositivo de medición de temperatura.
+P019 - Implementation of a temperature measurement device / Implementación de un dispositivo de medición de temperatura.
 
-P021 - Diseño de máscaras para la fabricación de arterias artificiales con SF-100.
+P021 - Mask design for the fabrication of artificial arteries with SF-100 / Diseño de máscaras para la fabricación de arterias artificiales con SF-100.
 
-P022 - Fabricación de sensor tipo MOx basado en Óxido de Zinc.
+P022 - Manufacture of MOx sensor based on Zinc Oxide / Fabricación de sensor tipo MOx basado en Óxido de Zinc.
 
-P026 - Uso del potenciostato.
+P026 - Use of the potentiostat / Uso del potenciostato.
 
-P028 - Programación aplicaciones AR para android.
+P028 - Programming AR applications for Android / Programación aplicaciones AR para android.
 
-P030 - Manejo Arduino desde LABVIEW.
+P030 - Arduino management from LABVIEW / Manejo Arduino desde LABVIEW.
 
 # Programming and SW development
 
-P016 - Diseño de aplicación para escanear códigos de barras en APP Inventor.
+P016 - Design of an application to scan barcodes in APP Inventor / Diseño de aplicación para escanear códigos de barras en APP Inventor.
 
-P028 - Programación aplicaciones AR para android.
+P028 - Programming AR applications for Android / Programación aplicaciones AR para android.
 
-P030 - Manejo Arduino desde LABVIEW.
+P030 - Arduino management from LABVIEW / Manejo Arduino desde LABVIEW.
 
