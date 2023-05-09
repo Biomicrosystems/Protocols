@@ -71,6 +71,8 @@ P034 - Quantification of protein/enzyme concentration / Cuantificación concentr
 
 P035 - Synthesis of fluorescent carbon dots by a thermal method / Síntesis de puntos fluorescentes de carbono por un método termal.
 
+P037 - Manufacturing and functionalization of micro robots for arsenic removal.
+
 # Sensors
 
 P001 - Design and manufacture of electrodes for electrochemical measurement / Diseño y fabricación de electrodos para medición electroquímica.
