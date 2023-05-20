@@ -43,6 +43,8 @@ P025 - Observation, handling, and injection of fluids in fluidic microsystems / 
 
 P033 - Assembly of fluidic microsystem for capsule generation / Ensamblaje microsistema fluídico de generación capsular.
 
+P038 - Microheater thermal camera measurement by the usage of Raspberry Pi. 
+
 # Nanocomposites and Nanostructuration
 
 P005 - Operational procedure for size and zeta potential analysis - nano zetasizer / Procedimiento operacional para el analisis de tamaño y potencial zeta – zetasizer nano.
@@ -103,6 +105,9 @@ P026 - Use of the potentiostat / Uso del potenciostato.
 
 P032 - Immobilization of antibodies in immunosensors / Inmovilización Anticuerpos en immunosensores.
 
+P039 - Inmobilization of Laccase on Electrodes by APTES and Glutaraldehyde Functionalization.
+
+P040 - Electrode Coating in Silver Chloride.
 
 # Measurement Techniques
 
@@ -119,6 +124,8 @@ P025 - Observation, handling, and injection of fluids in fluidic microsystems / 
 P026 - Use of the potentiostat / Uso del potenciostato.
 
 P034 - Quantification of protein/enzyme concentration / Cuantificación concentración de proteínas/enzimas.
+
+P038 - Microheater thermal camera measurement by the usage of Raspberry Pi. 
 
 # Chemical and Physical Processes
 
@@ -157,6 +164,10 @@ P032 - Immobilization of antibodies in immunosensors / Inmovilización Anticuerp
 P035 - Synthesis of carbon fluorescent dots by a thermal method / Síntesis de puntos fluorescentes de carbono por un método termal.
 
 P036 - Synthesis of magnetite/carbon dots nanohybrids using a co-precipitation method with magnetic stirring / Síntesis de nanohíbridos magnetita/puntos de carbono usando un método de coprecipitación con agitación magnética
+
+P039 - Inmobilization of Laccase on Electrodes by APTES and Glutaraldehyde Functionalization.
+
+P040 - Electrode Coating in Silver Chloride.
 
 # Electronics
 
