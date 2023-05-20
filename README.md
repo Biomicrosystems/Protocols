@@ -43,7 +43,7 @@ P025 - Observation, handling, and injection of fluids in fluidic microsystems / 
 
 P033 - Assembly of fluidic microsystem for capsule generation / Ensamblaje microsistema fluídico de generación capsular.
 
-P038 - Microheater thermal camera measurement by the usage of Raspberry Pi. 
+P038 - Microheater thermal camera measurement using Raspberry Pi / Medición con cámara térmica de microcalentador mediante el uso de Raspberry Pi. 
 
 # Nanocomposites and Nanostructuration
 
@@ -105,9 +105,9 @@ P026 - Use of the potentiostat / Uso del potenciostato.
 
 P032 - Immobilization of antibodies in immunosensors / Inmovilización Anticuerpos en immunosensores.
 
-P039 - Inmobilization of Laccase on Electrodes by APTES and Glutaraldehyde Functionalization.
+P039 - Immobilization of laccase on electrodes by functionalization with APTES and glutaraldehyde / Inmobilización de lacasa en electrodos por medio de funcionalización con APTES y glutaraldehído.
 
-P040 - Electrode Coating in Silver Chloride.
+P040 - Electrode Coating in Silver Chloride / Recubrimiento de Electrodos en Cloruro de Plata.
 
 # Measurement Techniques
 
@@ -125,7 +125,7 @@ P026 - Use of the potentiostat / Uso del potenciostato.
 
 P034 - Quantification of protein/enzyme concentration / Cuantificación concentración de proteínas/enzimas.
 
-P038 - Microheater thermal camera measurement by the usage of Raspberry Pi. 
+P038 - Microheater thermal camera measurement using Raspberry Pi / Medición con cámara térmica de microcalentador mediante el uso de Raspberry Pi. 
 
 # Chemical and Physical Processes
 
@@ -165,9 +165,9 @@ P035 - Synthesis of carbon fluorescent dots by a thermal method / Síntesis de p
 
 P036 - Synthesis of magnetite/carbon dots nanohybrids using a co-precipitation method with magnetic stirring / Síntesis de nanohíbridos magnetita/puntos de carbono usando un método de coprecipitación con agitación magnética
 
-P039 - Inmobilization of Laccase on Electrodes by APTES and Glutaraldehyde Functionalization.
+P039 - Immobilization of laccase on electrodes by functionalization with APTES and glutaraldehyde / Inmobilización de lacasa en electrodos por medio de funcionalización con APTES y glutaraldehído.
 
-P040 - Electrode Coating in Silver Chloride.
+P040 - Electrode Coating in Silver Chloride / Recubrimiento de Electrodos en Cloruro de Plata.
 
 # Electronics
 
