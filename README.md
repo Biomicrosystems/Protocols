@@ -127,6 +127,8 @@ P034 - Quantification of protein/enzyme concentration / Cuantificación concentr
 
 P038 - Microheater thermal camera measurement using Raspberry Pi / Medición con cámara térmica de microcalentador mediante el uso de Raspberry Pi. 
 
+P041 - Instalation of NOVA (Metrohm's potentiostat) and PSTrace (Palmsens' potentiostat) software / Instalación de los software NOVA (potenciostato de Metrohm) y PSTrace (potenciostato de Palmsens').
+
 # Chemical and Physical Processes
 
 P007 - Lithography / Litografía.
