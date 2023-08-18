@@ -193,6 +193,8 @@ P028 - Programming AR applications for Android / Programación aplicaciones AR p
 
 P030 - Arduino management from LABVIEW / Manejo Arduino desde LABVIEW.
 
+P041 - Programming the Crhistian´s potentiostat / Programación del potenciostato de Crhistian.
+
 # Programming and SW development
 
 P016 - Design of an application to scan barcodes in APP Inventor / Diseño de aplicación para escanear códigos de barras en APP Inventor.
@@ -200,4 +202,6 @@ P016 - Design of an application to scan barcodes in APP Inventor / Diseño de ap
 P028 - Programming AR applications for Android / Programación aplicaciones AR para android.
 
 P030 - Arduino management from LABVIEW / Manejo Arduino desde LABVIEW.
+
+P041 - Programming the Crhistian´s potentiostat / Programación del potenciostato de Crhistian.
 
